@@ -3,7 +3,7 @@
 resouces > views > blade.php files
 ````
 
-## Base Containing View
+# Base Containing View
 ```
 resource > themes > velocity > viewa > cms > page.blade.php
 ```
